@@ -48,8 +48,8 @@ html {
   @include flex(center, center);
   margin: 0 auto;
   flex-direction: column;
-  margin-top: 15vh;
-  margin-bottom: 25vh;
+  margin-top: 5vh;
+  margin-bottom: 15vh;
   .title {
     display: block;
     color: $color-white;
